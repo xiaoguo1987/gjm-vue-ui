@@ -4,7 +4,7 @@
 
 <script>
   export default {
-  name: 'hello3',
+  name: 'hello',
   data () {return{
     data1:[],
     data2:[]

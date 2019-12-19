@@ -11,10 +11,12 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "@finpo/vue2-recaptcha-invisible": "^1.2.0",
     "axios": "^0.19.0",
     "echarts": "^4.4.0",
     "qs.js": "^0.1.12",
     "vue": "^2.5.2",
+    "vue-recaptcha": "^1.2.0",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
